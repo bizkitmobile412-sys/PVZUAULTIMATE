@@ -22,5 +22,117 @@
     "obtain": "day",
     "davetip": "老兄，这款樱桃雪葩简直绝了，口感惊艳。你想把它升到20级吗？",
     "new_asset": true
+  },
+  "bignuts": {
+    "name": "巨大坚果墙",
+    "cost": 100,
+    "skill": "defend",
+    "obtain": "day",
+    "davetip": "邻居，我把植物的尺寸加大了！你想把它升到20级吗？",
+    "new_asset": true
+  },
+  "goldpotatomine": {
+    "name": "VIP土豆地雷",
+    "cost": 50,
+    "skill": "explode",
+    "obtain": "day",
+    "davetip": "邻居，你刚刚解锁了一株 VIP 植物。你想把它升到20级吗？",
+    "new_asset": true
+  },
+  "doublechomper": {
+    "name": "二人组大嘴花",
+    "cost": 300,
+    "skill": "melee",
+    "obtain": "day",
+    "davetip": "邻居，科学太棒了！你想把它升到20级吗？",
+    "new_asset": true
+  },
+  "gattlingpeaice": {
+    "name": "勃然大怒寒冰射手",
+    "cost": 350,
+    "skill": "shooter",
+    "obtain": "day",
+    "davetip": "邻居，有位陆军将军来了！你想把它升到20级吗？",
+    "new_asset": true
+  },
+  "eldermonkcactus": {
+   "name": "明智仙人掌",
+    "cost": 250,
+    "skill": "shooter",
+    "obtain": "day",
+    "davetip": "这株仙人掌现在变得睿智了。你想把它升到20级吗？",
+    "new_asset": true  
+  },
+  "electricmagnet": {
+    "name": "雷磁力菇",
+    "cost": 200,
+    "skill": "other",
+    "obtain": "day",
+    "davetip": "嘿邻居，这可是电动的！你想把它升到20级吗？",
+    "new_asset": true
+  },
+  "wildwestsquash": {
+   "name": "牛仔窝瓜",
+    "cost": 100,
+    "skill": "melee",
+    "obtain": "day",
+    "davetip": "耶哈！你想把它升到20级吗？",
+    "new_asset": true 
+  },
+  "helljalepeno": {
+   "name": "恶魔火爆辣椒",
+    "cost": 250,
+    "skill": "explode",
+    "obtain": "day",
+    "davetip": "邻居，我种了些辣椒。你想把它升到20级吗？",
+    "new_asset": true  
+  },
+  "redfiretorchwood": {
+   "name": "血火炬树桩",
+    "cost": 350,
+    "skill": "other",
+    "obtain": "day",
+    "davetip": "老兄，这棵树可真抢手！你想把它升到20级吗？",
+    "new_asset": true 
+  },
+  "painpot": {
+    "name": "带刺花盆",
+    "cost": 50,
+    "skill": "other",
+    "obtain": "china",
+    "davetip": "邻居，这个花盆很危险。你想把它升到20级吗？",
+    "new_asset": true 
+  },
+  "firebamboo": {
+    "name": "火色竹子",
+    "cost": 100,
+    "skill": "defend",
+    "obtain": "china",
+    "davetip": "邻居，尝尝这个香辣笋！你想把它升到20级吗？",
+    "new_asset": true
+  },
+  "kingfiregourd": {
+   "name": "皇帝火葫芦",
+    "cost": 400,
+    "skill": "shooter",
+    "obtain": "china",
+    "davetip": "大人，我给您带来了一个葫芦。你想把它升到20级吗？",
+    "new_asset": true 
+  },
+  "wingscoffeebean": {
+    "name": "天使咖啡豆",
+    "cost": 150,
+    "skill": "other",
+    "obtain": "china",
+    "davetip": "邻居，尝尝这咖啡！你想把它升到20级吗？",
+    "new_asset": true 
+  },
+  "ironarmortallnut": {
+    "name": "铁之神高坚果",
+    "cost": 250,
+    "skill": "defend",
+    "obtain": "china",
+    "davetip": "邻居，给你些护甲！你想把它升到20级吗？",
+    "new_asset": true
   }
 }
