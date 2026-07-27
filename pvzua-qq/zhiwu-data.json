@@ -1,5 +1,5 @@
 {
-    "qq_repeater": {
+    "repeater": {
     "name": "双重射手",
     "cost": 200,
     "skill": "shooter",
@@ -7,7 +7,7 @@
     "davetip": "邻居，这株植物能一次发射两发子弹，而不是一发。你想把它升到20级吗？",
     "new_asset": false
   },
-  "qq_hypnosunflower": {
+  "hypnosunflower": {
     "name": "魅力向日葵",
     "cost": 100,
     "skill": "sun_produce",
@@ -15,7 +15,7 @@
     "davetip": "邻居，这朵向日葵能魅惑僵尸。你想把它升到20级吗？",
     "new_asset": true
   },
-  "qq_ice_bomb": {
+  "ice_bomb": {
     "name": "冰樱桃炸弹",
     "cost": 300,
     "skill": "explode",
